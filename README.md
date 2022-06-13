@@ -45,4 +45,4 @@ yarn run version
 
 ## CHANGELOG
 
-[CHANGELOG](CHANGEL  OG.md)
+[CHANGELOG](CHANGELOG.md)
