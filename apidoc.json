@@ -1,0 +1,7 @@
+{
+  "name": "Api Doc",
+  "title": "Api Doc",
+  "description": "Api文档",
+  "url": "http://ip:port/api",
+  "version": "1.0.0"
+}
